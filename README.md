@@ -27,6 +27,8 @@ This project is a work in progress.
 
 - La fonction d'affichage du bonus fait crasher le navigateur (boucle infinie ?).
 
+- Le score de départ est de 200 pour faciliter les tests. Une fois les bugs corrigés je le remettrai à 0.
+
 ## Github Page
 
 [Here](https://massartval.github.io/cookie-clicker/)
